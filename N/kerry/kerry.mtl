@@ -1,0 +1,169 @@
+newmtl Strap_top
+    Ns 2.000000
+    d 1.000000
+    Ka 0.588235 0.588235 0.588235
+    Kd 0.588235 0.588235 0.588235
+    Ks 0.900000 0.900000 0.900000
+    map_Kd kerry_Default_85.png
+    map_D kerry_Default_85.png
+    map_Bump kerry_Default_95.jpg
+newmtl Buckle
+    Ns 6.311792
+    d 1.000000
+    Ka 0.400000 0.400000 0.400000
+    Kd 0.400000 0.400000 0.400000
+    Ks 0.500000 0.500000 0.500000
+    map_Kd kerry_Default_87.jpg
+    map_Bump kerry_Default_82.jpg
+newmtl Bra
+    Ns 7.000000
+    d 1.000000
+    Ka 0.501961 0.501961 0.501961
+    Kd 1.000000 1.000000 1.000000
+    Ks 0.898039 0.898039 0.898039
+    map_Kd kerry_Default_89.jpg
+    map_Bump kerry_Default_91.jpg
+newmtl Belt
+    Ns 2.000000
+    d 1.000000
+    Ka 0.588235 0.588235 0.588235
+    Kd 0.588235 0.588235 0.588235
+    Ks 0.900000 0.900000 0.900000
+    map_Kd kerry_Default_86.jpg
+    map_Bump kerry_Default_79.jpg
+newmtl Fingernail
+    Ns 30.000002
+    d 1.000000
+    Ka 0.196078 0.196078 0.196078
+    Kd 1.000000 1.000000 1.000000
+    Ks 0.898039 0.898039 0.898039
+    map_Kd kerry_Default_26.jpg
+    map_Bump kerry_Default_28.jpg
+    map_Ks kerry_Default_27.jpg
+newmtl Cornea
+    Ns 63.000000
+    d 0.800000
+    Ka 0.196078 0.196078 0.196078
+    Kd 1.000000 1.000000 1.000000
+    Ks 0.898039 0.898039 0.898039
+    map_Kd kerry_Default_36.jpg
+    map_Bump kerry_Default_72.jpg
+newmtl Boots
+    Ns 14.000000
+    d 1.000000
+    Ka 0.839216 0.839216 0.839216
+    Kd 0.972549 0.952941 0.847059
+    Ks 0.792157 0.933333 0.925490
+    map_Kd kerry_Default_51.jpg
+    map_Bump kerry_Default_48.jpg
+    map_Ks kerry_Default_54.jpg
+newmtl Upper_Teeth
+    Ns 35.000000
+    d 1.000000
+    Ka 0.196078 0.196078 0.196078
+    Kd 1.000000 1.000000 1.000000
+    Ks 0.898039 0.898039 0.898039
+    map_Kd kerry_Default_50.jpg
+    map_Bump kerry_Default_42.jpg
+    map_Ks kerry_Default_55.jpg
+newmtl Rocker_Jeans
+    Ns 2.000000
+    d 1.000000
+    Ka 0.588235 0.588235 0.588235
+    Kd 0.588235 0.588235 0.588235
+    Ks 0.900000 0.900000 0.900000
+    map_Kd kerry_Default_66.png
+    map_D kerry_Default_66.png
+    map_Bump kerry_Default_97.jpg
+newmtl Skin_Head
+    Ns 20.000000
+    d 1.000000
+    Ka 0.196078 0.196078 0.196078
+    Kd 1.000000 1.000000 1.000000
+    Ks 0.898039 0.898039 0.898039
+    map_Kd kerry_Default_11.png
+    map_D kerry_Default_11.png
+    map_Bump kerry_Default_15.jpg
+    map_Ks kerry_Default_18.jpg
+newmtl Toenail
+    Ns 30.000002
+    d 1.000000
+    Ka 0.196078 0.196078 0.196078
+    Kd 1.000000 1.000000 1.000000
+    Ks 0.898039 0.898039 0.898039
+    map_Kd kerry_Default_24.jpg
+    map_Bump kerry_Default_25.jpg
+    map_Ks kerry_Default_30.jpg
+newmtl Skin_Body
+    Ns 20.000000
+    d 1.000000
+    Ka 0.196078 0.196078 0.196078
+    Kd 1.000000 1.000000 1.000000
+    Ks 0.898039 0.898039 0.898039
+    map_Kd kerry_Default_22.jpg
+    map_Bump kerry_Default_17.jpg
+    map_Ks kerry_Default_10.jpg
+newmtl Eyelash
+    Ns 20.000000
+    d 1.000000
+    Ka 0.196078 0.196078 0.196078
+    Kd 1.000000 1.000000 1.000000
+    Ks 0.898039 0.898039 0.898039
+    map_Kd kerry_Default_16.png
+    map_D kerry_Default_16.png
+    map_Ks kerry_Default_21.jpg
+newmtl Tongue
+    Ns 30.000002
+    d 1.000000
+    Ka 0.196078 0.196078 0.196078
+    Kd 1.000000 1.000000 1.000000
+    Ks 0.898039 0.898039 0.898039
+    map_Kd kerry_Default_09.jpg
+    map_Bump kerry_Default_08.jpg
+    map_Ks kerry_Default_03.jpg
+newmtl Eye
+    Ns 40.000000
+    d 1.000000
+    Ka 0.196078 0.196078 0.196078
+    Kd 1.000000 1.000000 1.000000
+    Ks 0.898039 0.898039 0.898039
+    map_Kd kerry_Default_05.png
+    map_Bump kerry_Default_35.jpg
+newmtl scalp_LayeredBob
+    Ns 12.000000
+    d 1.000000
+    Ka 0.392157 0.392157 0.392157
+    Kd 1.000000 1.000000 1.000000
+    Ks 1.000000 1.000000 1.000000
+    map_Kd kerry_Default_71.png
+    map_D kerry_Default_71.png
+    map_Bump kerry_Default_56.jpg
+    map_Ks kerry_Default_69.jpg
+newmtl LayeredBob
+    Ns 12.000000
+    d 1.000000
+    Ka 0.396078 0.396078 0.396078
+    Kd 1.000000 1.000000 1.000000
+    Ks 1.000000 1.000000 1.000000
+    map_Kd kerry_Default_52.png
+    map_D kerry_Default_52.png
+    map_Bump kerry_Default_43.jpg
+    map_Ks kerry_Default_59.jpg
+newmtl Lower_Teeth
+    Ns 35.000000
+    d 1.000000
+    Ka 0.196078 0.196078 0.196078
+    Kd 1.000000 1.000000 1.000000
+    Ks 0.898039 0.898039 0.898039
+    map_Kd kerry_Default_64.jpg
+    map_Bump kerry_Default_68.jpg
+    map_Ks kerry_Default_44.jpg
+newmtl Bra_00
+    Ns 20.000000
+    d 1.000000
+    Ka 0.784314 0.784314 0.784314
+    Kd 1.000000 1.000000 1.000000
+    Ks 0.898039 0.898039 0.898039
+    map_Kd kerry_Default_41.jpg
+    map_Bump kerry_Default_47.jpg
+    map_Ks kerry_Default_46.jpg

@@ -1,0 +1,151 @@
+newmtl WM_cap
+    Ns 9.999999
+    d 1.000000
+    Ka 1.000000 1.000000 1.000000
+    Kd 1.000000 1.000000 1.000000
+    Ks 1.000000 1.000000 1.000000
+    map_Kd Sandy_Default_01.png
+    map_D Sandy_Default_01.png
+newmtl WM_Strands_D
+    Ns 9.999999
+    d 1.000000
+    Ka 1.000000 1.000000 1.000000
+    Kd 1.000000 1.000000 1.000000
+    Ks 1.000000 1.000000 1.000000
+    map_Kd Sandy_Default_05.png
+    map_D Sandy_Default_05.png
+newmtl WM_Strands_C
+    Ns 9.999999
+    d 1.000000
+    Ka 1.000000 1.000000 1.000000
+    Kd 1.000000 1.000000 1.000000
+    Ks 1.000000 1.000000 1.000000
+    map_Kd Sandy_Default_03.png
+    map_D Sandy_Default_03.png
+newmtl WM_Strands_B
+    Ns 9.999999
+    d 1.000000
+    Ka 1.000000 1.000000 1.000000
+    Kd 1.000000 1.000000 1.000000
+    Ks 1.000000 1.000000 1.000000
+    map_Kd Sandy_Default_04.png
+    map_D Sandy_Default_04.png
+newmtl WM_Strands_A
+    Ns 9.999999
+    d 1.000000
+    Ka 1.000000 1.000000 1.000000
+    Kd 1.000000 1.000000 1.000000
+    Ks 1.000000 1.000000 1.000000
+    map_Kd Sandy_Default_06.png
+    map_D Sandy_Default_06.png
+newmtl WM_Strands
+    Ns 9.999999
+    d 1.000000
+    Ka 1.000000 1.000000 1.000000
+    Kd 1.000000 1.000000 1.000000
+    Ks 1.000000 1.000000 1.000000
+    map_Kd Sandy_Default_02.png
+    map_D Sandy_Default_02.png
+newmtl 5_Sclera
+    Ns 100.000000
+    d 1.000000
+    Ka 1.000000 1.000000 1.000000
+    Kd 1.000000 1.000000 1.000000
+    Ks 1.000000 1.000000 1.000000
+    map_Kd Sandy_M4JeremyRREyesM.png
+    map_D Sandy_M4JeremyRREyesM.png
+    map_Bump Sandy_Default_07.jpg
+newmtl 5_Pupil
+    Ns 20.000000
+    d 1.000000
+    Ka 1.000000 1.000000 1.000000
+    Kd 1.000000 1.000000 1.000000
+    Ks 0.200000 0.200000 0.200000
+    map_Kd Sandy_M4JeremyRREyesM.png
+    map_Bump Sandy_Default_09.jpg
+newmtl 5_Cornea
+    Ns 50.000000
+    d 0.050000
+    Ka 1.000000 1.000000 1.000000
+    Kd 1.000000 1.000000 1.000000
+    Ks 1.000000 1.000000 1.000000
+    map_Kd Sandy_M4JeremyRREyesM.png
+    map_Bump Sandy_Default_08.jpg
+newmtl 6_Eyelash
+    Ns 751.918701
+    d 1.000000
+    Ka 0.000000 0.000000 0.000000
+    Kd 0.000000 0.000000 0.000000
+    Ks 0.000000 0.000000 0.000000
+    map_D Sandy_M4JeremyRRTR.png
+newmtl 3_SkinArm
+    Ns 19.999998
+    d 1.000000
+    Ka 1.000000 1.000000 1.000000
+    Kd 1.000000 1.000000 1.000000
+    Ks 1.000000 1.000000 1.000000
+    map_Kd Sandy_M4JeremyRRLimbsM.jpg
+    map_Bump Sandy_Default_11.jpg
+    map_Ks Sandy_Default_10.jpg
+newmtl 2_SkinTorso
+    Ns 19.999998
+    d 1.000000
+    Ka 1.000000 1.000000 1.000000
+    Kd 1.000000 1.000000 1.000000
+    Ks 1.000000 1.000000 1.000000
+    map_Kd Sandy_M4JeremyRRTorsoM_NG.jpg
+    map_Bump Sandy_Default_13.jpg
+    map_Ks Sandy_Default_14.jpg
+newmtl 4_InnerMouth
+    Ns 20.000000
+    d 1.000000
+    Ka 1.000000 1.000000 1.000000
+    Kd 1.000000 1.000000 1.000000
+    Ks 1.000000 1.000000 1.000000
+    map_Kd Sandy_M4JeremyRRInMouthM.jpg
+    map_Bump Sandy_Default_16.jpg
+newmtl M4FaFlopSoles
+    Ns 5.000000
+    d 1.000000
+    Ka 1.000000 1.000000 1.000000
+    Kd 1.000000 1.000000 1.000000
+    Ks 1.000000 1.000000 1.000000
+    map_Kd Sandy_L75M4FAFlop04.jpg
+    map_Bump Sandy_L75M4FAFlopBUM01.jpg
+newmtl L75FASuShPockFab
+    Ns 877.952026
+    d 0.000000
+    Ka 1.000000 1.000000 1.000000
+    Kd 1.000000 1.000000 1.000000
+    Ks 1.000000 1.000000 1.000000
+newmtl L75FASuShFAB
+    Ns 9.999999
+    d 1.000000
+    Ka 1.000000 1.000000 1.000000
+    Kd 1.000000 1.000000 1.000000
+    Ks 1.000000 1.000000 1.000000
+    map_Kd Sandy_L75M4FAShort1_03.jpg
+    map_Bump Sandy_L75M4FAShort1_03BUM.jpg
+newmtl 7_Tear
+    Ns 351.231995
+    d 0.150000
+    Ka 1.000000 1.000000 1.000000
+    Kd 0.250980 0.000000 0.250980
+    Ks 1.000000 1.000000 1.000000
+newmtl 1_SkinFace
+    Ns 19.999998
+    d 1.000000
+    Ka 1.000000 1.000000 1.000000
+    Kd 1.000000 1.000000 1.000000
+    Ks 1.000000 1.000000 1.000000
+    map_Kd Sandy_M4JeremyRRFaceM1.jpg
+    map_Bump Sandy_Default_12.jpg
+    map_Ks Sandy_Default_15.jpg
+newmtl M4FaTankFab
+    Ns 877.952026
+    d 1.000000
+    Ka 1.000000 1.000000 1.000000
+    Kd 1.000000 1.000000 1.000000
+    Ks 1.000000 1.000000 1.000000
+    map_Kd Sandy_L75M4FATank04.jpg
+    map_Bump Sandy_L75M4FATankBUM.jpg

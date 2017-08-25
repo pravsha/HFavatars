@@ -1,0 +1,137 @@
+newmtl long_straight
+    Ns 10.000000
+    d 1.000000
+    Ka 1.000000 1.000000 1.000000
+    Kd 1.000000 1.000000 1.000000
+    Ks 1.000000 1.000000 1.000000
+    map_Kd C:\Users\Alisha Dunn\Desktop\3DVR\avatars\LIZA LOW MAP.fbm\long_straight_Diffuse_LIZA LOW MAP.png
+    map_D C:\Users\Alisha Dunn\Desktop\3DVR\avatars\LIZA LOW MAP.fbm\long_straight_Diffuse_LIZA LOW MAP.png
+    map_Bump C:\Users\Alisha Dunn\Desktop\3DVR\avatars\LIZA LOW MAP.fbm\long_straight_Bump_LIZA LOW MAP.png
+    map_Ks C:\Users\Alisha Dunn\Desktop\3DVR\avatars\LIZA LOW MAP.fbm\long_straight_Specular_LIZA LOW MAP.png
+newmtl Fingernail
+    Ns 30.000002
+    d 1.000000
+    Ka 1.000000 1.000000 1.000000
+    Kd 1.000000 1.000000 1.000000
+    Ks 1.000000 1.000000 1.000000
+    map_Kd C:\Users\Alisha Dunn\Desktop\3DVR\avatars\LIZA LOW MAP.fbm\Fingernail_Diffuse_LIZA LOW MAP.png
+    map_Bump C:\Users\Alisha Dunn\Desktop\3DVR\avatars\LIZA LOW MAP.fbm\Fingernail_Normal_LIZA LOW MAP.png
+    map_Ks C:\Users\Alisha Dunn\Desktop\3DVR\avatars\LIZA LOW MAP.fbm\Fingernail_Specular_LIZA LOW MAP.png
+newmtl Eyelash
+    Ns 20.000000
+    d 1.000000
+    Ka 1.000000 1.000000 1.000000
+    Kd 1.000000 1.000000 1.000000
+    Ks 1.000000 1.000000 1.000000
+    map_Kd C:\Users\Alisha Dunn\Desktop\3DVR\avatars\LIZA LOW MAP.fbm\Eyelash_Diffuse_LIZA LOW MAP.png
+    map_D C:\Users\Alisha Dunn\Desktop\3DVR\avatars\LIZA LOW MAP.fbm\Eyelash_Diffuse_LIZA LOW MAP.png
+    map_Ks C:\Users\Alisha Dunn\Desktop\3DVR\avatars\LIZA LOW MAP.fbm\Eyelash_Specular_LIZA LOW MAP.png
+newmtl Shirt
+    Ns 19.000000
+    d 1.000000
+    Ka 1.000000 1.000000 1.000000
+    Kd 1.000000 1.000000 1.000000
+    Ks 1.000000 1.000000 1.000000
+    map_Kd C:\Users\Alisha Dunn\Desktop\3DVR\avatars\LIZA LOW MAP.fbm\Shirt_Diffuse_LIZA LOW MAP.png
+    map_Bump C:\Users\Alisha Dunn\Desktop\3DVR\avatars\LIZA LOW MAP.fbm\Shirt_Normal_LIZA LOW MAP.png
+    map_Ks C:\Users\Alisha Dunn\Desktop\3DVR\avatars\LIZA LOW MAP.fbm\Shirt_Specular_LIZA LOW MAP.png
+newmtl Jeans
+    Ns 10.000000
+    d 1.000000
+    Ka 1.000000 1.000000 1.000000
+    Kd 1.000000 1.000000 1.000000
+    Ks 1.000000 1.000000 1.000000
+    map_Kd C:\Users\Alisha Dunn\Desktop\3DVR\avatars\LIZA LOW MAP.fbm\Jeans_Diffuse_LIZA LOW MAP.png
+    map_D C:\Users\Alisha Dunn\Desktop\3DVR\avatars\LIZA LOW MAP.fbm\Jeans_Diffuse_LIZA LOW MAP.png
+    map_Bump C:\Users\Alisha Dunn\Desktop\3DVR\avatars\LIZA LOW MAP.fbm\Jeans_Normal_LIZA LOW MAP.png
+    map_Ks C:\Users\Alisha Dunn\Desktop\3DVR\avatars\LIZA LOW MAP.fbm\Jeans_Specular_LIZA LOW MAP.png
+newmtl Skin_Head
+    Ns 20.000000
+    d 1.000000
+    Ka 1.000000 1.000000 1.000000
+    Kd 1.000000 1.000000 1.000000
+    Ks 1.000000 1.000000 1.000000
+    map_Kd C:\Users\Alisha Dunn\Desktop\3DVR\avatars\LIZA LOW MAP.fbm\Skin_Head_Diffuse_LIZA LOW MAP.png
+    map_D C:\Users\Alisha Dunn\Desktop\3DVR\avatars\LIZA LOW MAP.fbm\Skin_Head_Diffuse_LIZA LOW MAP.png
+    map_Bump C:\Users\Alisha Dunn\Desktop\3DVR\avatars\LIZA LOW MAP.fbm\Skin_Head_Normal_LIZA LOW MAP.png
+    map_Ks C:\Users\Alisha Dunn\Desktop\3DVR\avatars\LIZA LOW MAP.fbm\Skin_Head_Specular_LIZA LOW MAP.png
+newmtl Tongue
+    Ns 30.000002
+    d 1.000000
+    Ka 1.000000 1.000000 1.000000
+    Kd 1.000000 1.000000 1.000000
+    Ks 1.000000 1.000000 1.000000
+    map_Kd C:\Users\Alisha Dunn\Desktop\3DVR\avatars\LIZA LOW MAP.fbm\Tongue_Diffuse_LIZA LOW MAP.png
+    map_Bump C:\Users\Alisha Dunn\Desktop\3DVR\avatars\LIZA LOW MAP.fbm\Tongue_Normal_LIZA LOW MAP.png
+    map_Ks C:\Users\Alisha Dunn\Desktop\3DVR\avatars\LIZA LOW MAP.fbm\Tongue_Specular_LIZA LOW MAP.png
+newmtl Toenail
+    Ns 30.000002
+    d 1.000000
+    Ka 1.000000 1.000000 1.000000
+    Kd 1.000000 1.000000 1.000000
+    Ks 1.000000 1.000000 1.000000
+    map_Kd C:\Users\Alisha Dunn\Desktop\3DVR\avatars\LIZA LOW MAP.fbm\Toenail_Diffuse_LIZA LOW MAP.png
+    map_Bump C:\Users\Alisha Dunn\Desktop\3DVR\avatars\LIZA LOW MAP.fbm\Toenail_Normal_LIZA LOW MAP.png
+    map_Ks C:\Users\Alisha Dunn\Desktop\3DVR\avatars\LIZA LOW MAP.fbm\Toenail_Specular_LIZA LOW MAP.png
+newmtl Skin_Body
+    Ns 20.000000
+    d 1.000000
+    Ka 1.000000 1.000000 1.000000
+    Kd 1.000000 1.000000 1.000000
+    Ks 1.000000 1.000000 1.000000
+    map_Kd C:\Users\Alisha Dunn\Desktop\3DVR\avatars\LIZA LOW MAP.fbm\Skin_Body_Diffuse_LIZA LOW MAP.png
+    map_Bump C:\Users\Alisha Dunn\Desktop\3DVR\avatars\LIZA LOW MAP.fbm\Skin_Body_Normal_LIZA LOW MAP.png
+    map_Ks C:\Users\Alisha Dunn\Desktop\3DVR\avatars\LIZA LOW MAP.fbm\Skin_Body_Specular_LIZA LOW MAP.png
+newmtl Eye
+    Ns 40.000000
+    d 1.000000
+    Ka 1.000000 1.000000 1.000000
+    Kd 1.000000 1.000000 1.000000
+    Ks 1.000000 1.000000 1.000000
+    map_Kd C:\Users\Alisha Dunn\Desktop\3DVR\avatars\LIZA LOW MAP.fbm\Eye_Diffuse_LIZA LOW MAP.png
+    map_Bump C:\Users\Alisha Dunn\Desktop\3DVR\avatars\LIZA LOW MAP.fbm\Eye_Normal_LIZA LOW MAP.png
+newmtl Upper_Teeth
+    Ns 35.000000
+    d 1.000000
+    Ka 1.000000 1.000000 1.000000
+    Kd 1.000000 1.000000 1.000000
+    Ks 1.000000 1.000000 1.000000
+    map_Kd C:\Users\Alisha Dunn\Desktop\3DVR\avatars\LIZA LOW MAP.fbm\Upper_Teeth_Diffuse_LIZA LOW MAP.png
+    map_Bump C:\Users\Alisha Dunn\Desktop\3DVR\avatars\LIZA LOW MAP.fbm\Upper_Teeth_Normal_LIZA LOW MAP.png
+    map_Ks C:\Users\Alisha Dunn\Desktop\3DVR\avatars\LIZA LOW MAP.fbm\Upper_Teeth_Specular_LIZA LOW MAP.png
+newmtl Lower_Teeth
+    Ns 35.000000
+    d 1.000000
+    Ka 1.000000 1.000000 1.000000
+    Kd 1.000000 1.000000 1.000000
+    Ks 1.000000 1.000000 1.000000
+    map_Kd C:\Users\Alisha Dunn\Desktop\3DVR\avatars\LIZA LOW MAP.fbm\Lower_Teeth_Diffuse_LIZA LOW MAP.png
+    map_Bump C:\Users\Alisha Dunn\Desktop\3DVR\avatars\LIZA LOW MAP.fbm\Lower_Teeth_Normal_LIZA LOW MAP.png
+    map_Ks C:\Users\Alisha Dunn\Desktop\3DVR\avatars\LIZA LOW MAP.fbm\Lower_Teeth_Specular_LIZA LOW MAP.png
+newmtl Boots
+    Ns 14.000000
+    d 1.000000
+    Ka 1.000000 1.000000 1.000000
+    Kd 1.000000 1.000000 1.000000
+    Ks 1.000000 1.000000 1.000000
+    map_Kd C:\Users\Alisha Dunn\Desktop\3DVR\avatars\LIZA LOW MAP.fbm\Boots_Diffuse_LIZA LOW MAP.png
+    map_Bump C:\Users\Alisha Dunn\Desktop\3DVR\avatars\LIZA LOW MAP.fbm\Boots_Normal_LIZA LOW MAP.png
+    map_Ks C:\Users\Alisha Dunn\Desktop\3DVR\avatars\LIZA LOW MAP.fbm\Boots_Specular_LIZA LOW MAP.png
+newmtl Cornea
+    Ns 63.000000
+    d 0.800000
+    Ka 1.000000 1.000000 1.000000
+    Kd 1.000000 1.000000 1.000000
+    Ks 1.000000 1.000000 1.000000
+    map_Kd C:\Users\Alisha Dunn\Desktop\3DVR\avatars\LIZA LOW MAP.fbm\Cornea_Diffuse_LIZA LOW MAP.png
+    map_Bump C:\Users\Alisha Dunn\Desktop\3DVR\avatars\LIZA LOW MAP.fbm\Cornea_Normal_LIZA LOW MAP.png
+newmtl scalp_long_straight
+    Ns 10.000000
+    d 1.000000
+    Ka 1.000000 1.000000 1.000000
+    Kd 1.000000 1.000000 1.000000
+    Ks 1.000000 1.000000 1.000000
+    map_Kd C:\Users\Alisha Dunn\Desktop\3DVR\avatars\LIZA LOW MAP.fbm\scalp_long_straight_Diffuse_LIZA LOW MAP.png
+    map_D C:\Users\Alisha Dunn\Desktop\3DVR\avatars\LIZA LOW MAP.fbm\scalp_long_straight_Diffuse_LIZA LOW MAP.png
+    map_Bump C:\Users\Alisha Dunn\Desktop\3DVR\avatars\LIZA LOW MAP.fbm\scalp_long_straight_Bump_LIZA LOW MAP.png
+    map_Ks C:\Users\Alisha Dunn\Desktop\3DVR\avatars\LIZA LOW MAP.fbm\scalp_long_straight_Specular_LIZA LOW MAP.png

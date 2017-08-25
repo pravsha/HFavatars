@@ -1,0 +1,138 @@
+newmtl Tongue
+    Ns 30.000008
+    d 1.000000
+    Ka 0.196078 0.196078 0.196078
+    Kd 1.000000 1.000000 1.000000
+    Ks 0.898039 0.898039 0.898039
+    map_Kd Jimmi_Tongue_Diffuse.jpg
+    map_Bump Jimmi_Tongue_Bump.jpg
+    map_Ks Jimmi_Tongue_Specular.jpg
+newmtl Fohawk_Hair
+    Ns 4.000000
+    d 1.000000
+    Ka 1.000000 1.000000 0.000000
+    Kd 1.000000 1.000000 0.000000
+    Ks 0.898039 0.898039 0.898039
+    map_Kd Jimmi_D__REALLUSION_ICLONE_ICLONE7_HAIR_MALE_MALEHAIR_UV2.png
+    map_D Jimmi_D__REALLUSION_ICLONE_ICLONE7_HAIR_MALE_MALEHAIR_UV2.png
+    map_Bump Jimmi_Default_02.jpg
+newmtl Upper_Teeth
+    Ns 35.000000
+    d 1.000000
+    Ka 0.000000 0.000000 0.000000
+    Kd 0.639216 0.580392 0.509804
+    Ks 0.898039 0.898039 0.898039
+    map_Kd Jimmi_Default_59.jpg
+    map_Bump Jimmi_Default_56.jpg
+    map_Ks Jimmi_Default_55.jpg
+newmtl Lower_Teeth
+    Ns 35.000000
+    d 1.000000
+    Ka 0.000000 0.000000 0.000000
+    Kd 0.458824 0.400000 0.333333
+    Ks 0.898039 0.898039 0.898039
+    map_Kd Jimmi_Default_60.jpg
+    map_Bump Jimmi_Default_52.jpg
+    map_Ks Jimmi_Default_61.jpg
+newmtl Cornea
+    Ns 63.000000
+    d 0.800000
+    Ka 0.196078 0.196078 0.196078
+    Kd 1.000000 1.000000 1.000000
+    Ks 0.898039 0.898039 0.898039
+    map_Kd Jimmi_Default_72.png
+    map_Bump Jimmi_Default_22.jpg
+newmtl Biker_Jeans
+    Ns 35.000000
+    d 1.000000
+    Ka 0.584314 0.584314 0.584314
+    Kd 1.000000 1.000000 1.000000
+    Ks 0.898039 0.898039 0.898039
+    map_Kd Jimmi_Default_50.jpg
+    map_Bump Jimmi_Default_53.jpg
+newmtl Loose_Biker_Boots
+    Ns 35.000000
+    d 1.000000
+    Ka 0.584314 0.584314 0.584314
+    Kd 1.000000 1.000000 1.000000
+    Ks 0.898039 0.898039 0.898039
+    map_Kd Jimmi_Default_67.jpg
+    map_Bump Jimmi_Default_65.jpg
+newmtl Eye
+    Ns 40.000000
+    d 1.000000
+    Ka 0.196078 0.196078 0.196078
+    Kd 1.000000 1.000000 1.000000
+    Ks 0.898039 0.898039 0.898039
+    map_Kd Jimmi_Default_04.jpg
+    map_Bump Jimmi_Default_24.jpg
+newmtl Fohawk_Scalp
+    Ns 2.000000
+    d 1.000000
+    Ka 1.000000 1.000000 1.000000
+    Kd 1.000000 1.000000 1.000000
+    Ks 0.900000 0.900000 0.900000
+    map_Kd Jimmi_Default_10.png
+    map_D Jimmi_Default_10.png
+newmtl Plaid_Punk_Shirt
+    Ns 35.000000
+    d 1.000000
+    Ka 0.588235 0.588235 0.588235
+    Kd 1.000000 1.000000 1.000000
+    Ks 0.898039 0.898039 0.898039
+    map_Kd Jimmi_Default_15.jpg
+    map_Bump Jimmi_Default_12.jpg
+newmtl Biker_Vest
+    Ns 35.000000
+    d 1.000000
+    Ka 0.588235 0.588235 0.588235
+    Kd 1.000000 1.000000 1.000000
+    Ks 0.898039 0.898039 0.898039
+    map_Kd Jimmi_Default_69.png
+    map_D Jimmi_Default_69.png
+    map_Bump Jimmi_Default_66.jpg
+newmtl Skin_Head
+    Ns 19.999998
+    d 1.000000
+    Ka 0.196078 0.196078 0.196078
+    Kd 1.000000 1.000000 1.000000
+    Ks 0.898039 0.898039 0.898039
+    map_Kd Jimmi_Default_40.jpg
+    map_Bump Jimmi_Default_35.jpg
+    map_Ks Jimmi_Skin_Head_Specular.jpg
+newmtl Eyelash
+    Ns 20.000000
+    d 0.500000
+    Ka 0.196078 0.196078 0.196078
+    Kd 1.000000 1.000000 1.000000
+    Ks 0.898039 0.898039 0.898039
+    map_Kd Jimmi_Eyelash_Diffuse.png
+    map_D Jimmi_Eyelash_Diffuse.png
+    map_Ks Jimmi_Eyelash_Specular.jpg
+newmtl Toenail
+    Ns 30.000008
+    d 1.000000
+    Ka 0.196078 0.196078 0.196078
+    Kd 1.000000 1.000000 1.000000
+    Ks 0.898039 0.898039 0.898039
+    map_Kd Jimmi_Default_31.jpg
+    map_Bump Jimmi_D__REALLUSION_ICLONE_ICLONE7_????_MALE ??_MALE03.jpg
+    map_Ks Jimmi_D__REALLUSION_ICLONE_ICLONE7_????_MALE ??_MALE02.jpg
+newmtl Fingernail
+    Ns 30.000008
+    d 1.000000
+    Ka 0.196078 0.196078 0.196078
+    Kd 1.000000 1.000000 1.000000
+    Ks 0.898039 0.898039 0.898039
+    map_Kd Jimmi_Default_28.jpg
+    map_Bump Jimmi_D__REALLUSION_ICLONE_ICLONE7_????_MALE ??_MALE01.jpg
+    map_Ks Jimmi_D__REALLUSION_ICLONE_ICLONE7_????_MALE ??_MALE.jpg
+newmtl Skin_Body
+    Ns 19.999998
+    d 1.000000
+    Ka 0.196078 0.196078 0.196078
+    Kd 1.000000 1.000000 1.000000
+    Ks 0.898039 0.898039 0.898039
+    map_Kd Jimmi_Default_39.jpg
+    map_Bump Jimmi_Default_41.jpg
+    map_Ks Jimmi_Skin_Body_Specular.jpg

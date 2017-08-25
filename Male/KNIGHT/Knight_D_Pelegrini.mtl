@@ -1,0 +1,9 @@
+newmtl Knight_MAT
+    Ns 20.000000
+    d 1.000000
+    Ka 1.000000 1.000000 1.000000
+    Kd 1.000000 1.000000 1.000000
+    Ks 1.000000 1.000000 1.000000
+    map_Kd Knight_D_Pelegrini_Default_01.jpg
+    map_Bump C:\Users\ALISHA~1\AppData\Local\Temp\Knight_D_Pelegrini.fbm\Knight_normal.png
+    map_Ks C:\Users\ALISHA~1\AppData\Local\Temp\Knight_D_Pelegrini.fbm\Knight_specular.png
