@@ -1,0 +1,139 @@
+newmtl Shirt
+    Ns 19.000000
+    d 1.000000
+    Ka 1.000000 1.000000 1.000000
+    Kd 1.000000 1.000000 1.000000
+    Ks 1.000000 1.000000 1.000000
+    map_Kd LIZA1_Default_15.jpg
+    map_Bump LIZA1_Default_17.jpg
+    map_Ks LIZA1_Default_16.jpg
+newmtl Boots
+    Ns 14.000000
+    d 1.000000
+    Ka 1.000000 1.000000 1.000000
+    Kd 1.000000 1.000000 1.000000
+    Ks 1.000000 1.000000 1.000000
+    map_Kd LIZA1_Default_20.jpg
+    map_Bump LIZA1_Default_18.jpg
+    map_Ks LIZA1_Default_11.jpg
+newmtl Jeans
+    Ns 9.999999
+    d 1.000000
+    Ka 1.000000 1.000000 1.000000
+    Kd 1.000000 1.000000 1.000000
+    Ks 1.000000 1.000000 1.000000
+    map_Kd LIZA1_Default_26.png
+    map_D LIZA1_Default_26.png
+    map_Bump LIZA1_Default_27.jpg
+    map_Ks LIZA1_Default_25.jpg
+newmtl Cornea
+    Ns 63.000000
+    d 0.800000
+    Ka 1.000000 1.000000 1.000000
+    Kd 1.000000 1.000000 1.000000
+    Ks 1.000000 1.000000 1.000000
+    map_Kd LIZA1_Default_71.jpg
+    map_Bump LIZA1_Default_69.jpg
+    map_Ks LIZA1_Default_13.jpg
+newmtl Skin_Head
+    Ns 19.999998
+    d 1.000000
+    Ka 1.000000 1.000000 1.000000
+    Kd 1.000000 1.000000 1.000000
+    Ks 1.000000 1.000000 1.000000
+    map_Kd LIZA1_Default_07.png
+    map_D LIZA1_Default_07.png
+    map_Bump LIZA1_Default_02.jpg
+    map_Ks LIZA1_Default_03.jpg
+newmtl Upper_Teeth
+    Ns 35.000000
+    d 1.000000
+    Ka 1.000000 1.000000 1.000000
+    Kd 1.000000 1.000000 1.000000
+    Ks 1.000000 1.000000 1.000000
+    map_Kd LIZA1_Default_67.jpg
+    map_Bump LIZA1_Default_68.jpg
+    map_Ks LIZA1_Default_65.jpg
+newmtl scalp_long_straight
+    Ns 9.999999
+    d 1.000000
+    Ka 1.000000 1.000000 1.000000
+    Kd 1.000000 1.000000 1.000000
+    Ks 1.000000 1.000000 1.000000
+    map_Kd LIZA1_Default_64.png
+    map_D LIZA1_Default_64.png
+    map_Bump LIZA1_Default_72.jpg
+    map_Ks LIZA1_Default_08.jpg
+newmtl Lower_Teeth
+    Ns 35.000000
+    d 1.000000
+    Ka 1.000000 1.000000 1.000000
+    Kd 1.000000 1.000000 1.000000
+    Ks 1.000000 1.000000 1.000000
+    map_Kd LIZA1_Default_22.jpg
+    map_Bump LIZA1_Default_23.jpg
+    map_Ks LIZA1_Default_24.jpg
+newmtl Toenail
+    Ns 30.000002
+    d 1.000000
+    Ka 1.000000 1.000000 1.000000
+    Kd 1.000000 1.000000 1.000000
+    Ks 1.000000 1.000000 1.000000
+    map_Kd LIZA1_Default_40.jpg
+    map_Bump LIZA1_Default_43.jpg
+    map_Ks LIZA1_Default_46.jpg
+newmtl Fingernail
+    Ns 30.000002
+    d 1.000000
+    Ka 1.000000 1.000000 1.000000
+    Kd 1.000000 1.000000 1.000000
+    Ks 1.000000 1.000000 1.000000
+    map_Kd LIZA1_Default_05.jpg
+    map_Bump LIZA1_Default_06.jpg
+    map_Ks LIZA1_Default_09.jpg
+newmtl long_straight
+    Ns 9.999999
+    d 1.000000
+    Ka 1.000000 1.000000 1.000000
+    Kd 1.000000 1.000000 1.000000
+    Ks 1.000000 1.000000 1.000000
+    map_Kd LIZA1_Default_19.png
+    map_D LIZA1_Default_19.png
+    map_Bump LIZA1_Default_12.jpg
+    map_Ks LIZA1_Default_13.jpg
+newmtl Skin_Body
+    Ns 19.999998
+    d 1.000000
+    Ka 1.000000 1.000000 1.000000
+    Kd 1.000000 1.000000 1.000000
+    Ks 1.000000 1.000000 1.000000
+    map_Kd LIZA1_Default_10.jpg
+    map_Bump LIZA1_Default_59.jpg
+    map_Ks LIZA1_Default_31.jpg
+newmtl Tongue
+    Ns 30.000002
+    d 1.000000
+    Ka 1.000000 1.000000 1.000000
+    Kd 1.000000 1.000000 1.000000
+    Ks 1.000000 1.000000 1.000000
+    map_Kd LIZA1_Default_63.jpg
+    map_Bump LIZA1_Default_66.jpg
+    map_Ks LIZA1_Default_70.jpg
+newmtl Eyelash
+    Ns 19.999998
+    d 1.000000
+    Ka 1.000000 1.000000 1.000000
+    Kd 1.000000 1.000000 1.000000
+    Ks 1.000000 1.000000 1.000000
+    map_Kd LIZA1_Default_04.png
+    map_D LIZA1_Default_04.png
+    map_Ks LIZA1_Default_01.jpg
+newmtl Eye
+    Ns 39.999996
+    d 1.000000
+    Ka 1.000000 1.000000 1.000000
+    Kd 1.000000 1.000000 1.000000
+    Ks 1.000000 1.000000 1.000000
+    map_Kd LIZA1_Default_14.jpg
+    map_Bump LIZA1_Default_21.jpg
+    map_Ks LIZA1_Default_13.jpg

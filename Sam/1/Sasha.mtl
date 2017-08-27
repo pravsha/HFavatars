@@ -1,0 +1,45 @@
+newmtl Shoesmat
+    Ns 20.000000
+    d 1.000000
+    Ka 1.000000 1.000000 1.000000
+    Kd 1.000000 1.000000 1.000000
+    Ks 1.000000 1.000000 1.000000
+    map_Kd C:\Users\Alisha Dunn\Desktop\Sasha.fbm\Sasha_Shoes_Diffuse.png
+    map_Bump C:\Users\Alisha Dunn\Desktop\Sasha.fbm\Sasha_Shoes_Normal.png
+    map_Ks C:\Users\Alisha Dunn\Desktop\Sasha.fbm\Sasha_Shoes_Specular.png
+newmtl Bottommat
+    Ns 20.000000
+    d 1.000000
+    Ka 1.000000 1.000000 1.000000
+    Kd 1.000000 1.000000 1.000000
+    Ks 1.000000 1.000000 1.000000
+    map_Kd C:\Users\Alisha Dunn\Desktop\Sasha.fbm\Sasha_Bottom_Diffuse.png
+    map_Bump C:\Users\Alisha Dunn\Desktop\Sasha.fbm\Sasha_Bottom_Normal.png
+    map_Ks C:\Users\Alisha Dunn\Desktop\Sasha.fbm\Sasha_Bottom_Specular.png
+newmtl Hairmat
+    Ns 19.999998
+    d 0.820000
+    Ka 1.000000 1.000000 1.000000
+    Kd 1.000000 1.000000 1.000000
+    Ks 1.000000 1.000000 1.000000
+    map_Kd Sasha_Default_13.jpg
+    map_Bump Sasha_Default_12.png
+    map_Ks Sasha_Default_11.png
+newmtl Bodymat
+    Ns 39.000000
+    d 1.000000
+    Ka 1.000000 1.000000 1.000000
+    Kd 1.000000 1.000000 1.000000
+    Ks 1.000000 1.000000 1.000000
+    map_Kd C:\Users\Alisha Dunn\Desktop\Sasha.fbm\Sasha_Body_Diffuse.png
+    map_Bump C:\Users\Alisha Dunn\Desktop\Sasha.fbm\Sasha_Body_Normal.png
+    map_Ks C:\Users\Alisha Dunn\Desktop\Sasha.fbm\Sasha_Body_Specular.png
+newmtl Topmat
+    Ns 20.000000
+    d 1.000000
+    Ka 1.000000 1.000000 1.000000
+    Kd 1.000000 1.000000 1.000000
+    Ks 1.000000 1.000000 1.000000
+    map_Kd C:\Users\Alisha Dunn\Desktop\Sasha.fbm\Sasha_Top_Diffuse.png
+    map_Bump C:\Users\Alisha Dunn\Desktop\Sasha.fbm\Sasha_Top_Normal.png
+    map_Ks C:\Users\Alisha Dunn\Desktop\Sasha.fbm\Sasha_Top_Specular.png

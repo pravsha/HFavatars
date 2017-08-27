@@ -1,0 +1,164 @@
+newmtl Texture_0
+    Ns 9.000000
+    d 0.750000
+    Ka 0.576471 0.576471 0.576471
+    Kd 0.858824 0.858824 0.858824
+    Ks 1.000000 1.000000 1.000000
+    map_Kd SamCat_36.jpg
+    map_Bump SamCat_37.jpg
+newmtl Toenail
+    Ns 30.000002
+    d 1.000000
+    Ka 0.196078 0.196078 0.196078
+    Kd 1.000000 1.000000 1.000000
+    Ks 0.898039 0.898039 0.898039
+    map_Kd SamCat_Default_28.jpg
+    map_Bump SamCat_Default_35.jpg
+    map_Ks SamCat_Default_27.jpg
+newmtl Skin(0)
+    Ns 9.000000
+    d 0.750000
+    Ka 0.576471 0.576471 0.576471
+    Kd 0.858824 0.858824 0.858824
+    Ks 1.000000 1.000000 1.000000
+    map_Kd SamCat_36.jpg
+    map_Bump SamCat_37.jpg
+newmtl Tongue
+    Ns 30.000002
+    d 1.000000
+    Ka 0.196078 0.196078 0.196078
+    Kd 1.000000 1.000000 1.000000
+    Ks 0.898039 0.898039 0.898039
+    map_Kd SamCat_Default_23.jpg
+    map_Bump SamCat_Default_34.jpg
+    map_Ks SamCat_Default_24.jpg
+newmtl Texture_0_00
+    Ns 9.000000
+    d 0.750000
+    Ka 0.576471 0.576471 0.576471
+    Kd 0.858824 0.858824 0.858824
+    Ks 1.000000 1.000000 1.000000
+    map_Kd SamCat_36.jpg
+    map_Bump SamCat_37.jpg
+newmtl (null)
+    Ns 104.095993
+    d 1.000000
+    Ka 0.000000 0.000000 0.000000
+    Kd 0.800000 0.800000 0.800000
+    Ks 1.000000 1.000000 1.000000
+    map_Kd SamCat_Default_14.png
+    map_D SamCat_Default_14.png
+    map_Bump SamCat_Default_18.jpg
+newmtl Cornea
+    Ns 50.000000
+    d 1.000000
+    Ka 0.270588 0.270588 0.270588
+    Kd 1.000000 1.000000 1.000000
+    Ks 1.000000 1.000000 1.000000
+    map_Kd SamCat_Default_19.png
+    map_D SamCat_Default_19.png
+newmtl Texture_0_01
+    Ns 9.000000
+    d 0.750000
+    Ka 0.576471 0.576471 0.576471
+    Kd 0.858824 0.858824 0.858824
+    Ks 1.000000 1.000000 1.000000
+    map_Kd SamCat_36.jpg
+    map_Bump SamCat_37.jpg
+newmtl Skin(0)_00
+    Ns 9.000000
+    d 0.750000
+    Ka 0.576471 0.576471 0.576471
+    Kd 0.858824 0.858824 0.858824
+    Ks 1.000000 1.000000 1.000000
+    map_Kd SamCat_36.jpg
+    map_Bump SamCat_37.jpg
+newmtl Texture_0_02
+    Ns 9.000000
+    d 0.750000
+    Ka 0.576471 0.576471 0.576471
+    Kd 0.858824 0.858824 0.858824
+    Ks 1.000000 1.000000 1.000000
+    map_Kd SamCat_36.jpg
+    map_Bump SamCat_37.jpg
+newmtl Eye
+    Ns 40.000000
+    d 1.000000
+    Ka 0.196078 0.196078 0.196078
+    Kd 1.000000 1.000000 1.000000
+    Ks 0.898039 0.898039 0.898039
+    map_Kd SamCat_Default_12.jpg
+    map_Bump SamCat_Default_16.jpg
+newmtl Eyelash
+    Ns 20.000000
+    d 1.000000
+    Ka 0.196078 0.196078 0.196078
+    Kd 1.000000 1.000000 1.000000
+    Ks 0.898039 0.898039 0.898039
+    map_Kd SamCat_Default_25.png
+    map_D SamCat_Default_25.png
+    map_Ks SamCat_Default_26.jpg
+newmtl Fingernail
+    Ns 30.000002
+    d 1.000000
+    Ka 0.196078 0.196078 0.196078
+    Kd 1.000000 1.000000 1.000000
+    Ks 0.898039 0.898039 0.898039
+    map_Kd SamCat_Default_32.jpg
+    map_Bump SamCat_Default_33.jpg
+    map_Ks SamCat_Default_22.jpg
+newmtl Skin_Head
+    Ns 20.000000
+    d 1.000000
+    Ka 0.196078 0.196078 0.196078
+    Kd 1.000000 1.000000 1.000000
+    Ks 0.898039 0.898039 0.898039
+    map_Kd SamCat_Default_36.png
+    map_D SamCat_Default_36.png
+    map_Bump SamCat_Default_31.jpg
+    map_Ks SamCat_Default_38.jpg
+newmtl Skin_Body
+    Ns 20.000000
+    d 1.000000
+    Ka 0.196078 0.196078 0.196078
+    Kd 1.000000 1.000000 1.000000
+    Ks 0.898039 0.898039 0.898039
+    map_Kd SamCat_Default_37.jpg
+    map_Bump SamCat_Default_29.jpg
+    map_Ks SamCat_Default_30.jpg
+newmtl Lower_Teeth
+    Ns 35.000000
+    d 1.000000
+    Ka 0.196078 0.196078 0.196078
+    Kd 1.000000 1.000000 1.000000
+    Ks 0.898039 0.898039 0.898039
+    map_Kd SamCat_Default_08.jpg
+    map_Bump SamCat_Default_04.jpg
+    map_Ks SamCat_Default_02.jpg
+newmtl Jeans
+    Ns 24.000000
+    d 1.000000
+    Ka 0.501961 0.501961 0.501961
+    Kd 1.000000 1.000000 1.000000
+    Ks 0.898039 0.898039 0.898039
+    map_Kd SamCat_Default_10.jpg
+    map_Bump SamCat_Default_01.jpg
+    map_Ks SamCat_Default_09.jpg
+newmtl Boxers
+    Ns 14.000000
+    d 1.000000
+    Ka 0.501961 0.501961 0.501961
+    Kd 0.839216 0.839216 0.839216
+    Ks 0.898039 0.898039 0.898039
+    map_Kd SamCat_Default_07.jpg
+    map_Bump SamCat_Default_06.jpg
+    map_Ks SamCat_Default_05.jpg
+newmtl Upper_Teeth
+    Ns 35.000000
+    d 1.000000
+    Ka 0.196078 0.196078 0.196078
+    Kd 1.000000 1.000000 1.000000
+    Ks 0.898039 0.898039 0.898039
+    map_Kd SamCat_Default_13.jpg
+    map_Bump SamCat_Default_03.jpg
+    map_Ks SamCat_Default_17.jpg
