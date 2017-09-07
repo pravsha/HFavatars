@@ -1,0 +1,91 @@
+name = LiliC
+type = body+head
+scale = 1
+filename = LiliC/LiliC.fbx
+texdir = LiliC/textures
+joint = jointRoot = mixamorig_Hips
+joint = jointLeftHand = mixamorig_LeftHand
+joint = jointEyeRight = RL_G6Beta_EyeBall_R
+joint = jointLean = mixamorig_Spine
+joint = jointNeck = mixamorig_Neck
+joint = jointEyeLeft = RL_G6Beta_EyeBall_L
+joint = jointHead = mixamorig_Head
+joint = jointRightHand = mixamorig_RightHand
+jointIndex = mixamorig_RightHand = 17
+jointIndex = RL_G6Beta_Dress = 69
+jointIndex = mixamorig_LeftHandRing3 = 48
+jointIndex = mixamorig_RightArm = 15
+jointIndex = mixamorig_RightHandRing4 = 25
+jointIndex = mixamorig_LeftLeg = 7
+jointIndex = mixamorig_Hips = 0
+jointIndex = mixamorig_RightHandPinky3 = 20
+jointIndex = mixamorig_LeftHand = 41
+jointIndex = mixamorig_LeftHandPinky2 = 43
+jointIndex = mixamorig_Head = 63
+jointIndex = mixamorig_Spine1 = 12
+jointIndex = mixamorig_LeftFoot = 8
+jointIndex = mixamorig_RightHandIndex1 = 30
+jointIndex = mixamorig_RightHandPinky2 = 19
+jointIndex = mixamorig_LeftUpLeg = 6
+jointIndex = mixamorig_RightHandMiddle2 = 27
+jointIndex = mixamorig_RightHandThumb4 = 37
+jointIndex = mixamorig_LeftHandThumb3 = 60
+jointIndex = mixamorig_RightHandMiddle3 = 28
+jointIndex = mixamorig_RightFoot = 3
+jointIndex = RL_G6Beta_Shoes = 71
+jointIndex = mixamorig_LeftHandPinky3 = 44
+jointIndex = mixamorig_Spine2 = 13
+jointIndex = mixamorig_RightShoulder = 14
+jointIndex = mixamorig_Spine = 11
+jointIndex = mixamorig_RightHandPinky4 = 21
+jointIndex = mixamorig_RightForeArm = 16
+jointIndex = mixamorig_RightHandMiddle4 = 29
+jointIndex = mixamorig_RightHandRing3 = 24
+jointIndex = mixamorig_RightUpLeg = 1
+jointIndex = mixamorig_RightHandRing2 = 23
+jointIndex = mixamorig_LeftHandIndex2 = 55
+jointIndex = mixamorig_LeftHandPinky4 = 45
+jointIndex = mixamorig_RightHandIndex3 = 32
+jointIndex = mixamorig_RightToe_End = 5
+jointIndex = mixamorig_LeftHandThumb4 = 61
+jointIndex = mixamorig_RightHandThumb3 = 36
+jointIndex = mixamorig_LeftHandThumb1 = 58
+jointIndex = mixamorig_LeftHandMiddle1 = 50
+jointIndex = mixamorig_LeftForeArm = 40
+jointIndex = mixamorig_LeftHandRing2 = 47
+jointIndex = RL_G6Beta_DownTeeth = 70
+jointIndex = RL_G6Beta_EyeBall_L = 73
+jointIndex = RL_G6Beta_Base = 77
+jointIndex = RL_G6Beta_Eyelash_L = 75
+jointIndex = mixamorig_RightHandRing1 = 22
+jointIndex = RL_G6Beta_Tongue = 76
+jointIndex = mixamorig_RightHandIndex2 = 31
+jointIndex = mixamorig_HeadTop_End = 64
+jointIndex = mixamorig_LeftHandMiddle2 = 51
+jointIndex = mixamorig_RightLeg = 2
+jointIndex = mixamorig_RightHandThumb1 = 34
+jointIndex = mixamorig_LeftHandIndex3 = 56
+jointIndex = mixamorig_LeftToeBase = 9
+jointIndex = mixamorig_LeftToe_End = 10
+jointIndex = RL_G6Beta_UpperTeeth = 67
+jointIndex = mixamorig_RightHandIndex4 = 33
+jointIndex = mixamorig_LeftHandPinky1 = 42
+jointIndex = mixamorig_LeftHandThumb2 = 59
+jointIndex = mixamorig_LeftHandIndex1 = 54
+jointIndex = mixamorig_RightHandThumb2 = 35
+jointIndex = mixamorig_LeftArm = 39
+jointIndex = mixamorig_LeftHandIndex4 = 57
+jointIndex = mixamorig_Neck = 62
+jointIndex = RL_G6Beta_EyeBall_R = 68
+jointIndex = mixamorig_LeftHandRing4 = 49
+jointIndex = Low ponytail = 66
+jointIndex = mixamorig_LeftHandMiddle3 = 52
+jointIndex = mixamorig_RightHandMiddle1 = 26
+jointIndex = mixamorig_LeftHandMiddle4 = 53
+jointIndex = RL_G6Beta_Eyelash_R = 72
+jointIndex = mixamorig_LeftShoulder = 38
+jointIndex = mixamorig_RightHandPinky1 = 18
+jointIndex = mixamorig_RightToeBase = 4
+jointIndex = Low ponytail_00 = 74
+jointIndex = Layered Bob = 65
+jointIndex = mixamorig_LeftHandRing1 = 46
