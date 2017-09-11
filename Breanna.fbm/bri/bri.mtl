@@ -1,0 +1,55 @@
+newmtl Bottommat
+    Ns 20.000000
+    d 1.000000
+    Ka 1.000000 1.000000 1.000000
+    Kd 1.000000 1.000000 1.000000
+    Ks 1.000000 1.000000 1.000000
+    map_Kd C:\Users\Alisha Dunn\Desktop\Breanna.fbm\Breanna_Bottom_Diffuse.png
+    map_Bump C:\Users\Alisha Dunn\Desktop\Breanna.fbm\Breanna_Bottom_Normal.png
+    map_Ks C:\Users\Alisha Dunn\Desktop\Breanna.fbm\Breanna_Bottom_Specular.png
+newmtl Topmat
+    Ns 20.000000
+    d 1.000000
+    Ka 1.000000 1.000000 1.000000
+    Kd 1.000000 1.000000 1.000000
+    Ks 1.000000 1.000000 1.000000
+    map_Kd C:\Users\Alisha Dunn\Desktop\LIZA.fbm\Shirt_DiffusBFLe.png
+    map_Bump C:\Users\Alisha Dunn\Desktop\Breanna.fbm\Breanna_Top_Normal.png
+    map_Ks C:\Users\Alisha Dunn\Desktop\Breanna.fbm\Breanna_Top_Specular.png
+newmtl Bodymat_Copy
+    Ns 11.000000
+    d 1.000000
+    Ka 1.000000 1.000000 1.000000
+    Kd 0.050980 0.050980 0.050980
+    Ks 0.000000 0.000000 0.000000
+    map_Kd C:\Users\Alisha Dunn\Desktop\LIZA.fbm\Eyelash_Diffuse.png
+    map_D C:/Users/Alisha Dunn/Desktop/Breanna.fbm/bri/bri_Default_03.png
+    map_Bump C:/Users/Alisha Dunn/Desktop/Breanna.fbm/bri/bri_Default_10.png
+    map_Ks C:/Users/Alisha Dunn/Desktop/Breanna.fbm/bri/bri_Default_04.png
+newmtl Shoesmat
+    Ns 20.000000
+    d 1.000000
+    Ka 1.000000 1.000000 1.000000
+    Kd 1.000000 1.000000 1.000000
+    Ks 1.000000 1.000000 1.000000
+    map_Kd C:\Users\Alisha Dunn\Desktop\Breanna.fbm\Breanna_Shoes_Diffuse.png
+    map_Bump C:\Users\Alisha Dunn\Desktop\Breanna.fbm\Breanna_Shoes_Normal.png
+    map_Ks C:\Users\Alisha Dunn\Desktop\Breanna.fbm\Breanna_Shoes_Specular.png
+newmtl Hairmat
+    Ns 20.000000
+    d 1.000000
+    Ka 1.000000 1.000000 1.000000
+    Kd 1.000000 1.000000 1.000000
+    Ks 1.000000 1.000000 1.000000
+    map_Kd C:\Users\Alisha Dunn\Desktop\Breanna.fbm\Breanna_Hair_Diffuse.png
+    map_Bump C:\Users\Alisha Dunn\Desktop\Breanna.fbm\Breanna_Hair_Normal.png
+    map_Ks C:\Users\Alisha Dunn\Desktop\Breanna.fbm\Breanna_Hair_Specular.png
+newmtl Bodymat
+    Ns 11.000000
+    d 1.000000
+    Ka 1.000000 1.000000 1.000000
+    Kd 1.000000 1.000000 1.000000
+    Ks 0.000000 0.000000 0.000000
+    map_Kd C:/Users/Alisha Dunn/Desktop/Breanna.fbm/bri/bri_Default_08.png
+    map_Bump C:\Users\Alisha Dunn\Desktop\Breanna.fbm\Breanna_Body_Normal.png
+    map_Ks C:\Users\Alisha Dunn\Desktop\Breanna.fbm\Breanna_Body_Specular.png

@@ -1,0 +1,14 @@
+newmtl easytoy(0)
+    Ns 0.000000
+    d 1.000000
+    Ka 1.000000 1.000000 1.000000
+    Kd 1.000000 1.000000 1.000000
+    Ks 1.000000 1.000000 1.000000
+    map_Kd C:/Users/Alisha Dunn/Desktop/Breanna.fbm/bri/kittyMiao/KittyMiao_easytoy(0)_Diffuse.png
+newmtl easytoy
+    Ns 48.000000
+    d 1.000000
+    Ka 1.000000 1.000000 1.000000
+    Kd 1.000000 1.000000 1.000000
+    Ks 1.000000 1.000000 1.000000
+    map_Kd C:/Users/Alisha Dunn/Desktop/Breanna.fbm/bri/kittyMiao/KittyMiao_easytoy_Diffuse.png
