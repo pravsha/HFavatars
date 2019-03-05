@@ -1,0 +1,10 @@
+newmtl MFF_iOS_HER_SST_MDS_B
+    Ns 45.000000
+    d 1.000000
+    Ka 0.513726 0.466667 0.211765
+    Kd 1.000000 1.000000 1.000000
+    Ks 1.000000 1.000000 1.000000
+    map_Kd necklace Strange_Default_03.png
+    map_Bump necklace Strange_Default_04.png
+    map_Pm necklace Strange_Default_02.jpg
+    map_Pr necklace Strange_Default_01.jpg

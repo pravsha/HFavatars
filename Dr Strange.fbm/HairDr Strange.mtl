@@ -1,0 +1,9 @@
+newmtl DoubleTails
+    Ns 31.000000
+    d 1.000000
+    Ka 0.392157 0.392157 0.392157
+    Kd 0.968628 0.968628 0.968628
+    Ks 1.000000 1.000000 1.000000
+    map_Kd HairDr Strange_Default_02.png
+    map_Bump HairDr Strange_Default_03.png
+    map_Ks HairDr Strange_Default_01.png
